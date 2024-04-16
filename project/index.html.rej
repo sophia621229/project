@@ -1,0 +1,13 @@
+diff a/project/index.html b/project/index.html	(rejected hunks)
+@@ -0,0 +1,11 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <title>0416 Git</title>
++</head>
++<body>
++    HI!這是Git建立的資料夾。
++</body>
++</html>
